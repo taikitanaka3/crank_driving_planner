@@ -74,7 +74,7 @@ class CrankDrigingPlanner(Node):
         
         
 
-        self.animation_flag = True
+        self.animation_flag = False
         self.debug = False
         
         if self.animation_flag:
